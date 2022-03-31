@@ -1,8 +1,6 @@
 function main(numOne, numTwo){
     // only change code bellow this line
-         var numOne;
-         var numTwo;
-         var remainder = numOne % numTwo;
+            var remainder = numOne % numTwo;
     // only change code above this line
     return remainder;
 }
