@@ -5,9 +5,7 @@ function main(numOne, numTwo) {
         quotient = "Divide by 0! Cannot divide by zero!"; 
     } else {
         // only change code below this line
-        var numOne;
-        var numTwo;
-         quotient = numOne / numTwo;
+          quotient = numOne / numTwo;
         // only change code above this line
     }
     return quotient;
